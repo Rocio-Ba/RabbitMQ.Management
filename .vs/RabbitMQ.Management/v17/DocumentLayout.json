@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\000_GitHub__Rocio\\RabbitMQ.Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86237CC0-9FB6-4428-9AA0-4E92726FB516}|RabbitMQ.Management\\RabbitMQ.Management.csproj|f:\\000_github__rocio\\rabbitmq.management\\rabbitmq.management\\producers\\producerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86237CC0-9FB6-4428-9AA0-4E92726FB516}|RabbitMQ.Management\\RabbitMQ.Management.csproj|solutionrelative:rabbitmq.management\\producers\\producerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86237CC0-9FB6-4428-9AA0-4E92726FB516}|RabbitMQ.Management\\RabbitMQ.Management.csproj|f:\\000_github__rocio\\rabbitmq.management\\rabbitmq.management\\producers\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86237CC0-9FB6-4428-9AA0-4E92726FB516}|RabbitMQ.Management\\RabbitMQ.Management.csproj|solutionrelative:rabbitmq.management\\producers\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86237CC0-9FB6-4428-9AA0-4E92726FB516}|RabbitMQ.Management\\RabbitMQ.Management.csproj|f:\\000_github__rocio\\rabbitmq.management\\rabbitmq.management\\producers\\producerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86237CC0-9FB6-4428-9AA0-4E92726FB516}|RabbitMQ.Management\\RabbitMQ.Management.csproj|solutionrelative:rabbitmq.management\\producers\\producerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProducerConfig.cs",
               "DocumentMoniker": "F:\\000_GitHub__Rocio\\RabbitMQ.Management\\RabbitMQ.Management\\Producers\\ProducerConfig.cs",
               "RelativeDocumentMoniker": "RabbitMQ.Management\\Producers\\ProducerConfig.cs",
               "ToolTip": "F:\\000_GitHub__Rocio\\RabbitMQ.Management\\RabbitMQ.Management\\Producers\\ProducerConfig.cs",
               "RelativeToolTip": "RabbitMQ.Management\\Producers\\ProducerConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T18:33:12.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Producer.cs",
               "DocumentMoniker": "F:\\000_GitHub__Rocio\\RabbitMQ.Management\\RabbitMQ.Management\\Producers\\Producer.cs",
               "RelativeDocumentMoniker": "RabbitMQ.Management\\Producers\\Producer.cs",
               "ToolTip": "F:\\000_GitHub__Rocio\\RabbitMQ.Management\\RabbitMQ.Management\\Producers\\Producer.cs",
               "RelativeToolTip": "RabbitMQ.Management\\Producers\\Producer.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T17:09:35.414Z",
               "EditorCaption": ""
